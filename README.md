@@ -15,13 +15,13 @@
   - 風險指標：Sharpe、Sortino、Max Drawdown、CVaR
   - 簡單資產配置嘗試（如最大夏普比率）
 - **成果輸出**：
-  - 分析圖表（`charts/`）
   - 總結報告 PDF（`reports/stock_analysis_summary.pdf`）
 
 ---
 
 ## 📂 專案結構
 stock-analysis-portfolio/
+
 ├─ notebooks/ # Jupyter Notebooks：主要程式與分析流程
 ├─ charts/ # 產出的圖表
 ├─ reports/ # 分析報告
