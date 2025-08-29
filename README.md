@@ -6,7 +6,7 @@
 程式主要以 Jupyter Notebook 撰寫，重點在於展示金融資料分析思維與成果，而非提供可直接套用的分析工具。  
 
 ## 📊 報告展示（PDF）  
-👉 [點我查看完整報告 PDF](股市資料分析pdf.pdf) 
+👉 [點我查看完整報告 PDF](股市資料分析pdf.pdf)  
 👉 [查看 Jupyter Notebook](股市分析.ipynb) 
 
 
