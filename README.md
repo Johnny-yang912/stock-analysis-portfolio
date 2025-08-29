@@ -2,8 +2,12 @@
 ## 📈 股市分析（Python）
 
 ## 🧾 專案簡介  
-本專案透過 Python 進行股市資料分析，涵蓋資料擷取、報酬率與風險指標計算（Sharpe Ratio、Sortino Ratio、Max Drawdown、CVaR），並嘗試進行簡單的資產配置分析。  
-程式主要以 Jupyter Notebook 撰寫，重點在於展示金融資料分析思維與成果，而非提供可直接套用的分析工具。  
+本專案透過 Python 進行股市資料分析，涵蓋資料擷取、清理與風險指標計算（Sharpe Ratio、Sortino Ratio、Max Drawdown、CVaR），並進一步嘗試簡單的資產配置分析。
+整體流程以 Jupyter Notebook 為核心，重點在於展示金融資料分析的完整思維與成果，同時亦提供簡易化的分析工具，雖非完整封裝，但能展現團隊合作與模組化開發的思維。
+
+本專案包含：
+Notebook：完整的分析過程與可視化結果
+工具包（utils_churn.py）：模組化工具，便於團隊快速重現與擴展分析流程
 
 ## 📊 報告展示（PDF）  
 👉 [點我查看完整報告 PDF](股市資料分析pdf.pdf)  
